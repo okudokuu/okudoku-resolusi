@@ -1,0 +1,4 @@
+OKUDOKU
+- Konsisten membuat website mengenai projek kantor
+- Membuat Forum Diskusi
+- Membuat Forum Belajar
