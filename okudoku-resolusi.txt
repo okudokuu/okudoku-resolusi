@@ -2,3 +2,5 @@ OKUDOKU
 - Konsisten membuat website mengenai projek kantor
 - Membuat Forum Diskusi
 - Membuat Forum Belajar
+- Membuat Aplikasi Android
+- Kolaborasi lebih banyak programmer
